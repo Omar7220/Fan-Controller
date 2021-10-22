@@ -17,3 +17,8 @@ d. If the temperature is greater than or equal 90C turn on the fan with 75% of i
 e. If the temperature is greater than or equal 120C turn on the fan with 100% of its maximum speed.
 
 The main principle of the circuit is to switch on/off the fan connected to DC motor based on temperature value. The DC-Motor rotates in clock-wise direction or stopped based on the fan state.
+
+The project is designed and implemented based on the layered architecture model as follow:
+
+
+![image](https://user-images.githubusercontent.com/91997061/138492587-3582ae27-3338-4bbf-bbf5-d9e8b0ab9438.png)
